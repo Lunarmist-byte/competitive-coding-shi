@@ -1,0 +1,13 @@
+nums = [1, 5, 0, 3, 4, 5]  # Input example
+n = len(nums)
+res = [-1] * n
+stack = []
+
+for i in range(n-1, -1, -1):
+    while stack and stack[-1] <= nums[i]:
+        stack.pop()
+    if stack:
+        res[i] = stack[-1]
+    stack.append(nums[i])
+
+print(res)
