@@ -1,0 +1,8 @@
+topics we covered
+arrays
+strings
+try the math program
+if possible try dynamic program easily
+sorting
+binary search
+if possible try database
