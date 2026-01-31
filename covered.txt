@@ -6,3 +6,12 @@ if possible try dynamic program easily
 sorting
 binary search
 if possible try database
+matrix
+bit manipulation(just starting)
+2 pointers
+Prefix sum is array
+heap(prique)
+stack
+sliding window you should try/refer
+linked list
+queue
